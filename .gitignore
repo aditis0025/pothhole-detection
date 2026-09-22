@@ -45,3 +45,8 @@ build/
 backend/outputs/
 # Backup files
 *.backup
+# Local database
+backend/cevic_aegis.db
+
+# Uploaded user/evidence files
+backend/uploads/

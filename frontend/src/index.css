@@ -47,3 +47,8 @@ input:focus-visible {
 
   outline-offset: 2px;
 }
+
+body.dark {
+  background: #0b1019;
+  color: #e8edf7;
+}
